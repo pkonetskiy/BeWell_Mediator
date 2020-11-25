@@ -2,9 +2,7 @@
 > The project implements data exchange between SuiteCRM and some messengers.
 >
 > Project connects SuiteCRM with Hubot for data sending to messenger and consists of javascripts included into Hubot.
->
 > The project has been tested with the next configuration:
->
 > Rocket.chat(3.6.2)<->Hubot<->SuiteCRM(7.11.15)
 
 ## Possibilities
