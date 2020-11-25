@@ -16,7 +16,7 @@ The project takes data from SuiteCRM which is queried by the user of messenger a
 - module-SuiteCRM.js - includes object receiving queries to bot.
 - integration_SuiteCRM/integration.js - includes object and functions implementing the steps of request to SuiteCRM.
 - integration_SuiteCRM/request.js - includes data processing object before and after requests to SuiteCRM.
-- integration_SuiteCRM/query.js - includes filter processing object for parameter 'query' of the method 'get_entry_list' (API v4.1 Methods SuiteCRM)
+- integration_SuiteCRM/query.js - includes filter processing object for parameter `query` of the method `get_entry_list` (API v4.1 Methods SuiteCRM)
 - integration_SuiteCRM/config.js - includes object of configuration of this integration
 
 ## Installation and configuration
